@@ -44,9 +44,6 @@ Repository Contents:
 * AML Transaction Monitoring.ipynb
 * Dashboard Sreenshots
   
-NOTE: Due to Github file size limitations, the complete transaction dataset and Power BI(pbix) dashboard file are hosted externally. They can be accessed below:
-
-https://drive.google.com/drive/folders/1mUjyP8wDbIcDyQfWoNzs6qjB4QWVKkm-?usp=sharing
 
 Author:  Winner Chioma Unuagbon
 Data Analytics | Machine Learning | Business Intelligence | Financial Crime Analytics | Risk Analytics
