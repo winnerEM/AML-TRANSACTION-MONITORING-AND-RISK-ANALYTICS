@@ -46,6 +46,7 @@ Repository Contents:
 * Model Comparison Table
 * AML Transaction Monitoring.ipynb
 * Dashboard Sreenshots
+* AML Transaction Word Report
 
 NOTE: Due to Github file size limitations, the complete transaction dataset and Power BI(pbix) dashboard file are hosted externally. They can be accessed below:
 
