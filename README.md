@@ -24,6 +24,7 @@ Project Workflow:
                                    
 
 Highlights:
+
 * Processed over 5 million financial transactions
 * Engineered approximately 497,000 account-level behavioural profiles
 * Developed a custom AML risk scoring framework with four risk categories
@@ -35,9 +36,11 @@ Highlights:
   --AML Transaction Pattern Analysis
   
 Tools & Technologies: 
+
 Python • Pandas • NumPy • Scikit-learn • XGBoost • Imbalanced-learn (SMOTE) • Google Colab • Microsoft Power BI • DAX • GitHub
 
 Repository Contents:
+
 * Sample Transactions dataset (final engineered dataset)
 * Patterns Table (detected patterns)
 * Model Comparison Table
@@ -50,5 +53,6 @@ https://drive.google.com/drive/folders/1mUjyP8wDbIcDyQfWoNzs6qjB4QWVKkm-?usp=sha
 
 
 Author:  Winner Chioma Unuagbon
+
 Data Analytics | Machine Learning | Business Intelligence | Financial Crime Analytics | Risk Analytics
 
