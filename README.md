@@ -1,6 +1,7 @@
 Anti-Money Laundering Transaction Monitoring and Risk Analysis Using Machine Learning, Network Analytics and Business Intelligence.
 
 Overview: 
+
 Money laundering remains one of the biggest challenges facing financial institutions, with millions of transactions requiring continuous monitoring to identify suspicious activity. Traditional rule-based systems often generate excessive false positives and struggle to detect increasingly sophisticated laundering techniques.
 This project presents an end-to-end Anti-Money Laundering (AML) analytics solution that combines Python, machine learning, network analytics and Power BI to support risk-based financial crime detection.
 Using the IBM Transactions for Anti Money Laundering (HI Small) dataset, over 5 million financial transactions were transformed into approximately 497,000 engineered account profiles. Behavioural features were developed, suspicious transaction networks were analysed, a custom risk scoring framework was created, multiple machine learning models were evaluated, and the results were delivered through interactive Power BI dashboards for executive monitoring and investigation.
