@@ -1,0 +1,5 @@
+Model,F1 Score,Precision,Recall,Accuracy
+Baseline Random Forest,0.0,0.0,0.0,0.999
+SMOTE + Random Forest,0.0261,0.013,0.6814,0.9482
+Tuned Random Forest,0.024,0.012,0.7794,0.9346
+SMOTE + XGBoost,0.0278,0.014,0.7206,0.9487
